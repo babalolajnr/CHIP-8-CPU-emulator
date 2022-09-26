@@ -3,3 +3,4 @@ A simple implementation of the CHIP-8 CPU as demonstrated in the `Rust in Action
 It includes the following components:
 * CPU RIA/1: The Adder
 * CPU RIA/2: The Multiplier
+* CPU RIA/3: The Caller
